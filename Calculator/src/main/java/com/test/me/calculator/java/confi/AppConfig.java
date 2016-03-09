@@ -5,8 +5,10 @@
  */
 package com.test.me.calculator.java.confi;
 
-import com.test.me.calculator.java.Impl.AreaImpl;
-import com.test.me.calculator.java.Impl.PerimeterImpl;
+import com.test.me.calculator.java.Impl.AreaOfRectangleImpl;
+import com.test.me.calculator.java.Impl.ExponentsImpl;
+import com.test.me.calculator.java.Impl.SubtractionImpl;
+import com.test.me.calculator.java.Impl.SumImpl;
 
 import com.test.me.calculator.java.interfaces.MathLabInterface;
 
@@ -25,12 +27,22 @@ public class AppConfig {
     
      @Bean(name = "areaClass")
     public MathLabInterface getAreaService() {
-        return new AreaImpl();
+        return new AreaOfRectangleImpl();
     }
 
-    @Bean(name = "perimeterClass")
-    public MathLabInterface getPerimeterService() {
-        return new PerimeterImpl();
+    @Bean(name = "sumClass")
+    public MathLabInterface getSumService() {
+        return new SumImpl();
     }
     
+     @Bean(name = "subtractionClass")
+    public MathLabInterface getSubtractService() {
+        return new SubtractionImpl();
+    }
+    
+    
+     @Bean(name = "ExponentsClass")
+    public MathLabInterface getExponentService() {
+        return new ExponentsImpl();
+    }
 }

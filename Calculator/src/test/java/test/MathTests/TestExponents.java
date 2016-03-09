@@ -21,26 +21,27 @@ import org.testng.annotations.Test;
  *
  * @author Roman
  */
-public class PerimeterTest {
+public class TestExponents {
     
-    private static MathLabInterface perimeterObject;
     private static ApplicationContext ctx;
-    public PerimeterTest() {
+    private static MathLabInterface exponentObject;
+    
+    public TestExponents() {
     }
 
     // TODO add test methods here.
     // The methods must be annotated with annotation @Test. For example:
     //
     @Test
-    public void testPerimeter() {
-    
-        Assert.assertEquals(perimeterObject.calculate(6,6), 12,"Values aren't the same");
-    }
+     public void testExponents() {
+     
+         Assert.assertEquals(exponentObject.calculate(2, 3), 8);
+     }
 
     @BeforeClass
     public static void setUpClass() throws Exception {
         ctx = new AnnotationConfigApplicationContext(AppConfig.class);
-        perimeterObject = (MathLabInterface)ctx.getBean("perimeterClass");
+        exponentObject = (MathLabInterface)ctx.getBean("ExponentsClass");
     }
 
     @AfterClass
