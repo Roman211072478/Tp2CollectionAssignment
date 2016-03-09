@@ -14,7 +14,7 @@ import com.test.me.members.java.interfaces.Person;
 public class PersonImpl implements Person{
 
     @Override
-    public String newName() {
+    public String getName() {
         return "awesome";
     }
     

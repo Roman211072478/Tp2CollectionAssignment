@@ -10,7 +10,7 @@ package com.test.me.members.java.interfaces;
  * @author Roman
  */
 public interface Person {
-    public String newName();
+    public String getName();
    
     
 }

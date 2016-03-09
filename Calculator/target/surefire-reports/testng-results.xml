@@ -2,50 +2,50 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Command line suite" duration-ms="1181" started-at="2016-03-09T07:06:21Z" finished-at="2016-03-09T07:06:22Z">
+  <suite name="Command line suite" duration-ms="1197" started-at="2016-03-09T17:14:19Z" finished-at="2016-03-09T17:14:20Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="1181" started-at="2016-03-09T07:06:21Z" finished-at="2016-03-09T07:06:22Z">
+    <test name="Command line test" duration-ms="1197" started-at="2016-03-09T17:14:19Z" finished-at="2016-03-09T17:14:20Z">
       <class name="test.MathTests.PerimeterTest">
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:test.MathTests.PerimeterTest@b92dc2]" name="setUpClass" is-config="true" duration-ms="36" started-at="2016-03-09T09:06:22Z" finished-at="2016-03-09T09:06:22Z">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:test.MathTests.PerimeterTest@12cdd20]" name="setUpClass" is-config="true" duration-ms="35" started-at="2016-03-09T19:14:20Z" finished-at="2016-03-09T19:14:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:test.MathTests.PerimeterTest@b92dc2]" name="setUpMethod" is-config="true" duration-ms="1" started-at="2016-03-09T09:06:22Z" finished-at="2016-03-09T09:06:22Z">
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:test.MathTests.PerimeterTest@12cdd20]" name="setUpMethod" is-config="true" duration-ms="1" started-at="2016-03-09T19:14:20Z" finished-at="2016-03-09T19:14:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpMethod -->
-        <test-method status="PASS" signature="testPerimeter()[pri:0, instance:test.MathTests.PerimeterTest@b92dc2]" name="testPerimeter" duration-ms="0" started-at="2016-03-09T09:06:22Z" finished-at="2016-03-09T09:06:22Z">
+        <test-method status="PASS" signature="testPerimeter()[pri:0, instance:test.MathTests.PerimeterTest@12cdd20]" name="testPerimeter" duration-ms="0" started-at="2016-03-09T19:14:20Z" finished-at="2016-03-09T19:14:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testPerimeter -->
-        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:test.MathTests.PerimeterTest@b92dc2]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2016-03-09T09:06:22Z" finished-at="2016-03-09T09:06:22Z">
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:test.MathTests.PerimeterTest@12cdd20]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2016-03-09T19:14:20Z" finished-at="2016-03-09T19:14:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:test.MathTests.PerimeterTest@b92dc2]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2016-03-09T09:06:22Z" finished-at="2016-03-09T09:06:22Z">
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:test.MathTests.PerimeterTest@12cdd20]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2016-03-09T19:14:20Z" finished-at="2016-03-09T19:14:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
       </class> <!-- test.MathTests.PerimeterTest -->
       <class name="test.MathTests.AreaTest">
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:test.MathTests.AreaTest@12cdd20]" name="setUpClass" is-config="true" duration-ms="1111" started-at="2016-03-09T09:06:21Z" finished-at="2016-03-09T09:06:22Z">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:test.MathTests.AreaTest@b92dc2]" name="setUpClass" is-config="true" duration-ms="1128" started-at="2016-03-09T19:14:19Z" finished-at="2016-03-09T19:14:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="testArea()[pri:0, instance:test.MathTests.AreaTest@12cdd20]" name="testArea" duration-ms="7" started-at="2016-03-09T09:06:22Z" finished-at="2016-03-09T09:06:22Z">
+        <test-method status="PASS" signature="testArea()[pri:0, instance:test.MathTests.AreaTest@b92dc2]" name="testArea" duration-ms="7" started-at="2016-03-09T19:14:20Z" finished-at="2016-03-09T19:14:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testArea -->
-        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:test.MathTests.AreaTest@12cdd20]" name="setUpMethod" is-config="true" duration-ms="0" started-at="2016-03-09T09:06:22Z" finished-at="2016-03-09T09:06:22Z">
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:test.MathTests.AreaTest@b92dc2]" name="setUpMethod" is-config="true" duration-ms="0" started-at="2016-03-09T19:14:20Z" finished-at="2016-03-09T19:14:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpMethod -->
-        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:test.MathTests.AreaTest@12cdd20]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2016-03-09T09:06:22Z" finished-at="2016-03-09T09:06:22Z">
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:test.MathTests.AreaTest@b92dc2]" name="tearDownMethod" is-config="true" duration-ms="1" started-at="2016-03-09T19:14:20Z" finished-at="2016-03-09T19:14:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:test.MathTests.AreaTest@12cdd20]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2016-03-09T09:06:22Z" finished-at="2016-03-09T09:06:22Z">
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:test.MathTests.AreaTest@b92dc2]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2016-03-09T19:14:20Z" finished-at="2016-03-09T19:14:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->

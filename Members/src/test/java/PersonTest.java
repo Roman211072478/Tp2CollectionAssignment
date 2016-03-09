@@ -31,7 +31,7 @@ public class PersonTest {
     @Test
     public void testPerson() {
     
-        Assert.assertEquals(person.newName(), "awesome","Values should be equal");
+        Assert.assertEquals(person.getName(), "awesome","Values should be equal");
     }
 
     @BeforeClass
