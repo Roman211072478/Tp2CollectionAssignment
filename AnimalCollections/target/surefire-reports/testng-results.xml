@@ -2,72 +2,72 @@
 <testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Command line suite" duration-ms="82" started-at="2016-03-09T18:51:09Z" finished-at="2016-03-09T18:51:09Z">
+  <suite name="Command line suite" duration-ms="74" started-at="2016-03-10T17:49:41Z" finished-at="2016-03-10T17:49:41Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="82" started-at="2016-03-09T18:51:09Z" finished-at="2016-03-09T18:51:09Z">
+    <test name="Command line test" duration-ms="74" started-at="2016-03-10T17:49:41Z" finished-at="2016-03-10T17:49:41Z">
       <class name="AnimalSetTest">
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:AnimalSetTest@5df3c5]" name="setUpClass" is-config="true" duration-ms="0" started-at="2016-03-09T20:51:09Z" finished-at="2016-03-09T20:51:09Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="testAnimalSet()[pri:0, instance:AnimalSetTest@5df3c5]" name="testAnimalSet" duration-ms="0" started-at="2016-03-09T20:51:09Z" finished-at="2016-03-09T20:51:09Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testAnimalSet -->
-        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:AnimalSetTest@5df3c5]" name="setUpMethod" is-config="true" duration-ms="0" started-at="2016-03-09T20:51:09Z" finished-at="2016-03-09T20:51:09Z">
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:AnimalSetTest@5df3c5]" name="setUpMethod" is-config="true" duration-ms="2" started-at="2016-03-10T19:49:41Z" finished-at="2016-03-10T19:49:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpMethod -->
-        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:AnimalSetTest@5df3c5]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2016-03-09T20:51:09Z" finished-at="2016-03-09T20:51:09Z">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:AnimalSetTest@5df3c5]" name="setUpClass" is-config="true" duration-ms="0" started-at="2016-03-10T19:49:41Z" finished-at="2016-03-10T19:49:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="testAnimalSet()[pri:0, instance:AnimalSetTest@5df3c5]" name="testAnimalSet" duration-ms="1" started-at="2016-03-10T19:49:41Z" finished-at="2016-03-10T19:49:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAnimalSet -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:AnimalSetTest@5df3c5]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2016-03-10T19:49:41Z" finished-at="2016-03-10T19:49:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:AnimalSetTest@5df3c5]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2016-03-09T20:51:09Z" finished-at="2016-03-09T20:51:09Z">
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:AnimalSetTest@5df3c5]" name="tearDownClass" is-config="true" duration-ms="1" started-at="2016-03-10T19:49:41Z" finished-at="2016-03-10T19:49:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
       </class> <!-- AnimalSetTest -->
       <class name="AnimalListTest">
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:AnimalListTest@1d8643e]" name="setUpClass" is-config="true" duration-ms="26" started-at="2016-03-09T20:51:09Z" finished-at="2016-03-09T20:51:09Z">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:AnimalListTest@1d8643e]" name="setUpClass" is-config="true" duration-ms="27" started-at="2016-03-10T19:49:41Z" finished-at="2016-03-10T19:49:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:AnimalListTest@1d8643e]" name="setUpMethod" is-config="true" duration-ms="1" started-at="2016-03-09T20:51:09Z" finished-at="2016-03-09T20:51:09Z">
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:AnimalListTest@1d8643e]" name="setUpMethod" is-config="true" duration-ms="1" started-at="2016-03-10T19:49:41Z" finished-at="2016-03-10T19:49:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpMethod -->
-        <test-method status="PASS" signature="testAnimalList()[pri:0, instance:AnimalListTest@1d8643e]" name="testAnimalList" duration-ms="22" started-at="2016-03-09T20:51:09Z" finished-at="2016-03-09T20:51:09Z">
+        <test-method status="PASS" signature="testAnimalList()[pri:0, instance:AnimalListTest@1d8643e]" name="testAnimalList" duration-ms="11" started-at="2016-03-10T19:49:41Z" finished-at="2016-03-10T19:49:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAnimalList -->
-        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:AnimalListTest@1d8643e]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2016-03-09T20:51:09Z" finished-at="2016-03-09T20:51:09Z">
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:AnimalListTest@1d8643e]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2016-03-10T19:49:41Z" finished-at="2016-03-10T19:49:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:AnimalListTest@1d8643e]" name="tearDownClass" is-config="true" duration-ms="1" started-at="2016-03-09T20:51:09Z" finished-at="2016-03-09T20:51:09Z">
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:AnimalListTest@1d8643e]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2016-03-10T19:49:41Z" finished-at="2016-03-10T19:49:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
       </class> <!-- AnimalListTest -->
       <class name="AnimalMapTest">
-        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:AnimalMapTest@1e5ebbf]" name="setUpMethod" is-config="true" duration-ms="1" started-at="2016-03-09T20:51:09Z" finished-at="2016-03-09T20:51:09Z">
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:AnimalMapTest@1e5ebbf]" name="setUpMethod" is-config="true" duration-ms="1" started-at="2016-03-10T19:49:41Z" finished-at="2016-03-10T19:49:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpMethod -->
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:AnimalMapTest@1e5ebbf]" name="setUpClass" is-config="true" duration-ms="0" started-at="2016-03-09T20:51:09Z" finished-at="2016-03-09T20:51:09Z">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:AnimalMapTest@1e5ebbf]" name="setUpClass" is-config="true" duration-ms="0" started-at="2016-03-10T19:49:41Z" finished-at="2016-03-10T19:49:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:AnimalMapTest@1e5ebbf]" name="tearDownMethod" is-config="true" duration-ms="1" started-at="2016-03-09T20:51:09Z" finished-at="2016-03-09T20:51:09Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDownMethod -->
-        <test-method status="PASS" signature="testAnimalMap()[pri:0, instance:AnimalMapTest@1e5ebbf]" name="testAnimalMap" duration-ms="0" started-at="2016-03-09T20:51:09Z" finished-at="2016-03-09T20:51:09Z">
+        <test-method status="PASS" signature="testAnimalMap()[pri:0, instance:AnimalMapTest@1e5ebbf]" name="testAnimalMap" duration-ms="0" started-at="2016-03-10T19:49:41Z" finished-at="2016-03-10T19:49:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAnimalMap -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:AnimalMapTest@1e5ebbf]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2016-03-09T20:51:09Z" finished-at="2016-03-09T20:51:09Z">
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:AnimalMapTest@1e5ebbf]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2016-03-10T19:49:41Z" finished-at="2016-03-10T19:49:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:AnimalMapTest@1e5ebbf]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2016-03-10T19:49:41Z" finished-at="2016-03-10T19:49:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->

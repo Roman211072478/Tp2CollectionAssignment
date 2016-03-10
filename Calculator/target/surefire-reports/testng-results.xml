@@ -2,97 +2,97 @@
 <testng-results skipped="0" failed="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Command line suite" duration-ms="1374" started-at="2016-03-09T18:51:03Z" finished-at="2016-03-09T18:51:05Z">
+  <suite name="Command line suite" duration-ms="1390" started-at="2016-03-10T17:49:35Z" finished-at="2016-03-10T17:49:36Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="1374" started-at="2016-03-09T18:51:03Z" finished-at="2016-03-09T18:51:05Z">
+    <test name="Command line test" duration-ms="1390" started-at="2016-03-10T17:49:35Z" finished-at="2016-03-10T17:49:36Z">
       <class name="test.MathTests.TestExponents">
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:test.MathTests.TestExponents@d593f7]" name="setUpClass" is-config="true" duration-ms="39" started-at="2016-03-09T20:51:05Z" finished-at="2016-03-09T20:51:05Z">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:test.MathTests.TestExponents@d593f7]" name="setUpClass" is-config="true" duration-ms="39" started-at="2016-03-10T19:49:36Z" finished-at="2016-03-10T19:49:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:test.MathTests.TestExponents@d593f7]" name="setUpMethod" is-config="true" duration-ms="0" started-at="2016-03-09T20:51:05Z" finished-at="2016-03-09T20:51:05Z">
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:test.MathTests.TestExponents@d593f7]" name="setUpMethod" is-config="true" duration-ms="0" started-at="2016-03-10T19:49:36Z" finished-at="2016-03-10T19:49:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpMethod -->
-        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:test.MathTests.TestExponents@d593f7]" name="tearDownMethod" is-config="true" duration-ms="1" started-at="2016-03-09T20:51:05Z" finished-at="2016-03-09T20:51:05Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDownMethod -->
-        <test-method status="PASS" signature="testExponents()[pri:0, instance:test.MathTests.TestExponents@d593f7]" name="testExponents" duration-ms="0" started-at="2016-03-09T20:51:05Z" finished-at="2016-03-09T20:51:05Z">
+        <test-method status="PASS" signature="testExponents()[pri:0, instance:test.MathTests.TestExponents@d593f7]" name="testExponents" duration-ms="1" started-at="2016-03-10T19:49:36Z" finished-at="2016-03-10T19:49:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testExponents -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:test.MathTests.TestExponents@d593f7]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2016-03-09T20:51:05Z" finished-at="2016-03-09T20:51:05Z">
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:test.MathTests.TestExponents@d593f7]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2016-03-10T19:49:36Z" finished-at="2016-03-10T19:49:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:test.MathTests.TestExponents@d593f7]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2016-03-10T19:49:36Z" finished-at="2016-03-10T19:49:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
       </class> <!-- test.MathTests.TestExponents -->
       <class name="test.MathTests.AreaTest">
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:test.MathTests.AreaTest@e11a87]" name="setUpClass" is-config="true" duration-ms="1210" started-at="2016-03-09T20:51:03Z" finished-at="2016-03-09T20:51:05Z">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:test.MathTests.AreaTest@e11a87]" name="setUpClass" is-config="true" duration-ms="1226" started-at="2016-03-10T19:49:35Z" finished-at="2016-03-10T19:49:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:test.MathTests.AreaTest@e11a87]" name="setUpMethod" is-config="true" duration-ms="1" started-at="2016-03-09T20:51:05Z" finished-at="2016-03-09T20:51:05Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUpMethod -->
-        <test-method status="PASS" signature="testArea()[pri:0, instance:test.MathTests.AreaTest@e11a87]" name="testArea" duration-ms="7" started-at="2016-03-09T20:51:05Z" finished-at="2016-03-09T20:51:05Z">
+        <test-method status="PASS" signature="testArea()[pri:0, instance:test.MathTests.AreaTest@e11a87]" name="testArea" duration-ms="7" started-at="2016-03-10T19:49:36Z" finished-at="2016-03-10T19:49:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testArea -->
-        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:test.MathTests.AreaTest@e11a87]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2016-03-09T20:51:05Z" finished-at="2016-03-09T20:51:05Z">
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:test.MathTests.AreaTest@e11a87]" name="setUpMethod" is-config="true" duration-ms="0" started-at="2016-03-10T19:49:36Z" finished-at="2016-03-10T19:49:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:test.MathTests.AreaTest@e11a87]" name="tearDownMethod" is-config="true" duration-ms="1" started-at="2016-03-10T19:49:36Z" finished-at="2016-03-10T19:49:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:test.MathTests.AreaTest@e11a87]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2016-03-09T20:51:05Z" finished-at="2016-03-09T20:51:05Z">
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:test.MathTests.AreaTest@e11a87]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2016-03-10T19:49:36Z" finished-at="2016-03-10T19:49:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
       </class> <!-- test.MathTests.AreaTest -->
       <class name="test.MathTests.SubtractTest">
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:test.MathTests.SubtractTest@94cbe2]" name="setUpClass" is-config="true" duration-ms="43" started-at="2016-03-09T20:51:05Z" finished-at="2016-03-09T20:51:05Z">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:test.MathTests.SubtractTest@94cbe2]" name="setUpClass" is-config="true" duration-ms="43" started-at="2016-03-10T19:49:36Z" finished-at="2016-03-10T19:49:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:test.MathTests.SubtractTest@94cbe2]" name="setUpMethod" is-config="true" duration-ms="1" started-at="2016-03-09T20:51:05Z" finished-at="2016-03-09T20:51:05Z">
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:test.MathTests.SubtractTest@94cbe2]" name="setUpMethod" is-config="true" duration-ms="0" started-at="2016-03-10T19:49:36Z" finished-at="2016-03-10T19:49:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpMethod -->
-        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:test.MathTests.SubtractTest@94cbe2]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2016-03-09T20:51:05Z" finished-at="2016-03-09T20:51:05Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDownMethod -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:test.MathTests.SubtractTest@94cbe2]" name="tearDownClass" is-config="true" duration-ms="1" started-at="2016-03-09T20:51:05Z" finished-at="2016-03-09T20:51:05Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDownClass -->
-        <test-method status="PASS" signature="testSubtraction()[pri:0, instance:test.MathTests.SubtractTest@94cbe2]" name="testSubtraction" duration-ms="0" started-at="2016-03-09T20:51:05Z" finished-at="2016-03-09T20:51:05Z">
+        <test-method status="PASS" signature="testSubtraction()[pri:0, instance:test.MathTests.SubtractTest@94cbe2]" name="testSubtraction" duration-ms="0" started-at="2016-03-10T19:49:36Z" finished-at="2016-03-10T19:49:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSubtraction -->
-      </class> <!-- test.MathTests.SubtractTest -->
-      <class name="test.MathTests.SumTest">
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:test.MathTests.SumTest@18e9adf]" name="setUpClass" is-config="true" duration-ms="44" started-at="2016-03-09T20:51:05Z" finished-at="2016-03-09T20:51:05Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:test.MathTests.SumTest@18e9adf]" name="setUpMethod" is-config="true" duration-ms="0" started-at="2016-03-09T20:51:05Z" finished-at="2016-03-09T20:51:05Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUpMethod -->
-        <test-method status="PASS" signature="testPerimeter()[pri:0, instance:test.MathTests.SumTest@18e9adf]" name="testPerimeter" duration-ms="1" started-at="2016-03-09T20:51:05Z" finished-at="2016-03-09T20:51:05Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testPerimeter -->
-        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:test.MathTests.SumTest@18e9adf]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2016-03-09T20:51:05Z" finished-at="2016-03-09T20:51:05Z">
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:test.MathTests.SubtractTest@94cbe2]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2016-03-10T19:49:36Z" finished-at="2016-03-10T19:49:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:test.MathTests.SumTest@18e9adf]" name="tearDownClass" is-config="true" duration-ms="1" started-at="2016-03-09T20:51:05Z" finished-at="2016-03-09T20:51:05Z">
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:test.MathTests.SubtractTest@94cbe2]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2016-03-10T19:49:36Z" finished-at="2016-03-10T19:49:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
+      </class> <!-- test.MathTests.SubtractTest -->
+      <class name="test.MathTests.SumTest">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:test.MathTests.SumTest@18e9adf]" name="setUpClass" is-config="true" duration-ms="44" started-at="2016-03-10T19:49:36Z" finished-at="2016-03-10T19:49:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="testPerimeter()[pri:0, instance:test.MathTests.SumTest@18e9adf]" name="testPerimeter" duration-ms="0" started-at="2016-03-10T19:49:36Z" finished-at="2016-03-10T19:49:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPerimeter -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:test.MathTests.SumTest@18e9adf]" name="setUpMethod" is-config="true" duration-ms="0" started-at="2016-03-10T19:49:36Z" finished-at="2016-03-10T19:49:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:test.MathTests.SumTest@18e9adf]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2016-03-10T19:49:36Z" finished-at="2016-03-10T19:49:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:test.MathTests.SumTest@18e9adf]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2016-03-10T19:49:36Z" finished-at="2016-03-10T19:49:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
       </class> <!-- test.MathTests.SumTest -->
     </test> <!-- Command line test -->
   </suite> <!-- Command line suite -->

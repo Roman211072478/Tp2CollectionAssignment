@@ -6,9 +6,9 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>Calculator</module>
-        <module>Members</module>
-        <module>AnimalCollections</module>
+        <module>calculator</module>
+        <module>members</module>
+        <module>animalCollections</module>
     </modules>
     
       

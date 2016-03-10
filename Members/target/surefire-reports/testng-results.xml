@@ -2,31 +2,31 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="PersonTest" duration-ms="58" started-at="2016-03-09T18:51:07Z" finished-at="2016-03-09T18:51:07Z">
+  <suite name="PersonTest" duration-ms="59" started-at="2016-03-10T17:49:39Z" finished-at="2016-03-10T17:49:39Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="58" started-at="2016-03-09T18:51:07Z" finished-at="2016-03-09T18:51:07Z">
+    <test name="Command line test" duration-ms="59" started-at="2016-03-10T17:49:39Z" finished-at="2016-03-10T17:49:39Z">
       <class name="PersonTest">
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:PersonTest@14b2819]" name="setUpClass" is-config="true" duration-ms="24" started-at="2016-03-09T20:51:07Z" finished-at="2016-03-09T20:51:07Z">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:PersonTest@31c43f]" name="setUpClass" is-config="true" duration-ms="24" started-at="2016-03-10T19:49:39Z" finished-at="2016-03-10T19:49:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:PersonTest@14b2819]" name="setUpMethod" is-config="true" duration-ms="2" started-at="2016-03-09T20:51:07Z" finished-at="2016-03-09T20:51:07Z">
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:PersonTest@31c43f]" name="setUpMethod" is-config="true" duration-ms="2" started-at="2016-03-10T19:49:39Z" finished-at="2016-03-10T19:49:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpMethod -->
-        <test-method status="PASS" signature="testPerson()[pri:0, instance:PersonTest@14b2819]" name="testPerson" duration-ms="7" started-at="2016-03-09T20:51:07Z" finished-at="2016-03-09T20:51:07Z">
+        <test-method status="PASS" signature="testPerson()[pri:0, instance:PersonTest@31c43f]" name="testPerson" duration-ms="7" started-at="2016-03-10T19:49:39Z" finished-at="2016-03-10T19:49:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testPerson -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:PersonTest@14b2819]" name="tearDownClass" is-config="true" duration-ms="1" started-at="2016-03-09T20:51:07Z" finished-at="2016-03-09T20:51:07Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDownClass -->
-        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:PersonTest@14b2819]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2016-03-09T20:51:07Z" finished-at="2016-03-09T20:51:07Z">
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:PersonTest@31c43f]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2016-03-10T19:49:39Z" finished-at="2016-03-10T19:49:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:PersonTest@31c43f]" name="tearDownClass" is-config="true" duration-ms="1" started-at="2016-03-10T19:49:39Z" finished-at="2016-03-10T19:49:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
       </class> <!-- PersonTest -->
     </test> <!-- Command line test -->
   </suite> <!-- PersonTest -->
